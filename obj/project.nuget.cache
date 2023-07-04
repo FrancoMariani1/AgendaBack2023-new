@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CulsGAramuW5uN7lzthpVUbegWBG26Iw2y1qkZwWP4TbiAtFLpUa8Lniy827MSA47p5BwVRVMUU2Cfkz+RV7JQ==",
+  "dgSpecHash": "eJmSK+OhD0QS8szH2XCSTYGFd0e0IbBorr6fQZVKqNar6kJyTVaOtgp+qYwKCE6LObZgJUGN1vcIEKEbkzK08Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\BackEnd\\AgendaBack2023\\AgendaBack2023\\AgendaBack2023\\AgendaBack2023.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\BackEnd\\AgendaBack2023-new\\AgendaBack2023.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

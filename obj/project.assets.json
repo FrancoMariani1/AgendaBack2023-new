@@ -2339,11 +2339,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\BackEnd\\AgendaBack2023\\AgendaBack2023\\AgendaBack2023\\AgendaBack2023.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\BackEnd\\AgendaBack2023-new\\AgendaBack2023.csproj",
       "projectName": "AgendaBack2023",
-      "projectPath": "C:\\Users\\Usuario\\BackEnd\\AgendaBack2023\\AgendaBack2023\\AgendaBack2023\\AgendaBack2023.csproj",
+      "projectPath": "C:\\Users\\Usuario\\BackEnd\\AgendaBack2023-new\\AgendaBack2023.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\BackEnd\\AgendaBack2023\\AgendaBack2023\\AgendaBack2023\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\BackEnd\\AgendaBack2023-new\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
